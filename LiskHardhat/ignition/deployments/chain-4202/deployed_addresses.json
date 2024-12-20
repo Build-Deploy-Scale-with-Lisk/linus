@@ -1,4 +1,5 @@
 {
   "LockModule#Lock": "0x7e377C82C33D744de4e9B6a539b5d7F4C8F158a8",
-  "LockModule#LearningHub": "0xBaAD2F209Eb3693E7a52b5744d79071C43dba4c0"
+  "LockModule#LearningHub": "0xBaAD2F209Eb3693E7a52b5744d79071C43dba4c0",
+  "DeployOurToken#Token": "0x9967922Ad6dB781344989E8EC9e54724dCf6f569"
 }

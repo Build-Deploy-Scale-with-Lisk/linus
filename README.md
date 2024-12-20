@@ -28,3 +28,9 @@ https://sepolia-blockscout.lisk.com/address/0xBaAD2F209Eb3693E7a52b5744d79071C43
 
 0xBaAD2F209Eb3693E7a52b5744d79071C43dba4c0
 
+
+# OpenZeppelin ERC-20 Functions
+
+We successfully deployed an ERC-20 contract inheriting from OpenZeppelin standard
+
+0x9967922Ad6dB781344989E8EC9e54724dCf6f569
